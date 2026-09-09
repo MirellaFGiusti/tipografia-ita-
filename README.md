@@ -2,9 +2,9 @@
 nesse exercício vimos o guia de tipografia e cores de empresas e desenvolvemos habilidades de design para front-end.
 ---
 
-## 🎨 Paleta de Cores (Color Palette)
+## 🎨 Paleta de Cores 
 
-A paleta é dividida em escalas funcionais de marca, tons secundários, tons neutros (*Dark*, *Light*) e tons de destaque (*Feedback/Alert*).
+A paleta é dividida em escalas funcionais de marca, tons secundários, tons neutros  e tons de destaque.
 
 ### 1. Primária (Orange Core)
 | Token / Nome | Hex Code | Uso Recomendado |
@@ -40,7 +40,7 @@ A paleta é dividida em escalas funcionais de marca, tons secundários, tons neu
 
 ---
 
-## 📐 Escala Tipográfica (Typography Scale)
+## 📐 Escala Tipográfica 
 
 A hierarquia visual tipográfica do projeto é estruturada nas seguintes especificações de tamanho:
 
@@ -54,7 +54,7 @@ A hierarquia visual tipográfica do projeto é estruturada nas seguintes especif
 
 ---
 
-## 💻 Exemplo de Tokens CSS / Tailwind
+## 💻 Exemplo em programação
 
 ```css
 :root {
@@ -90,7 +90,3 @@ A hierarquia visual tipográfica do projeto é estruturada nas seguintes especif
 ```
 
 ---
-
-## 📝 Licença & Uso
-
-Este guia foi elaborado para padronizar os tokens de design do projeto com base nas especificações da marca Itaú.
