@@ -1,7 +1,5 @@
-# Style Guide & Token System - Itaú Typography & Palette
-
-Este repositório/documento contém a especificação do sistema de design, guias de estilo visual e tokens de tipografia e cores baseados na identidade visual do **Itaú**.
-
+# tipografia e cores itaú
+nesse exercício vimos o guia de tipografia e cores de empresas e desenvolvemos habilidades de design para front-end.
 ---
 
 ## 🎨 Paleta de Cores (Color Palette)
